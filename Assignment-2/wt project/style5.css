@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+.container {
+    margin-top: 40px;
+    margin-bottom: 60px;
+    max-width: 800px;
+    margin: auto;
+    background-color: #e4c8c8;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.header {
+    background-color: #8B5B29; /* Maroon color */
+    color: #fff; /* White text */
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    width: 50px; /* Adjust the size as needed */
+    vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
+    margin: auto; /* Remove default margin */
+    font-size: 2.5em; /* Larger font size */
+}
+
+.content {
+    background-color: #e7d5d5; /* Light grayish background */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px; /* Rounded corners */
+}
+
+p {
+    color: #333; /* Darker text color */
+    line-height: 1.6; /* Improve text readability */
+}
